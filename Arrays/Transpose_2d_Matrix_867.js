@@ -11,9 +11,9 @@ const transpose = (arr) => {
     }
   }
 
-  for (const row of resultMatrix) {
-    row.reverse();
-  }
+  // for (const row of resultMatrix) {
+  //   row.reverse();
+  // }
 
   console.log(resultMatrix);
 };
