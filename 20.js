@@ -15,4 +15,4 @@ const validParanthesis = (str) => {
   return stack.length === 0;
 };
 
-console.log(validParanthesis("()[]}"));
+console.log(validParanthesis("([])"));

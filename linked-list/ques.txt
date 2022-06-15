@@ -1,0 +1,8 @@
+1. 876 - https://leetcode.com/problems/middle-of-the-linked-list/
+2. 141 - https://leetcode.com/problems/linked-list-cycle/
+3. 142 - https://leetcode.com/problems/linked-list-cycle-ii/
+4. 202 - https://leetcode.com/problems/happy-number/
+5. 287 - https://leetcode.com/problems/find-the-duplicate-number/
+6. 206 - 
+7. 237 - https://leetcode.com/problems/delete-node-in-a-linked-list/
+8. 21 - 
