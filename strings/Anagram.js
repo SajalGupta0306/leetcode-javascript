@@ -22,4 +22,4 @@ const isAnagram = (str1, str2) => {
   return true;
 };
 
-console.log(isAnagram("hello", "lleoh"));
+console.log(isAnagram("hello", "llehh"));
